@@ -1,0 +1,10 @@
+# Core skills for the Operations Manager archetype.
+
+google-doc-report
+google-sheets
+slack-poller
+slack-respond
+telegram-delegate
+find-skills
+onboarding
+prompt-injection-guard
